@@ -1,0 +1,5 @@
+export const RAG_CONFIG = {
+  TOP_K: 3,
+  MIN_SIMILARITY_SCORE: 0.7,
+  MIN_CONTEXT_LENGTH: 50,
+};

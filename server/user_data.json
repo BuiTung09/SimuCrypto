@@ -1,0 +1,79 @@
+{
+  "id": "38222436-e2b1-4be0-9c3d-0caf35f1d3f5",
+  "email": "test_google_user@gmail.com",
+  "passwordHash": null,
+  "username": "test_google_user_bbcaxe",
+  "displayName": "Google Test User",
+  "avatarUrl": "https://ui-avatars.com/api/?name=Google+Test+User",
+  "googleId": "google_test_id_123",
+  "role": "user",
+  "isActive": true,
+  "lastLoginAt": null,
+  "createdAt": "2026-03-16T11:57:39.290Z",
+  "updatedAt": "2026-03-16T11:57:39.290Z",
+  "portfolioAccount": {
+    "id": "5ed1b9d9-3add-41d5-b1f8-afeb9a5ec83f",
+    "userId": "38222436-e2b1-4be0-9c3d-0caf35f1d3f5",
+    "initialVirtualBalance": "10000",
+    "virtualBalance": "9580.46598",
+    "createdAt": "2026-03-16T11:57:39.290Z",
+    "updatedAt": "2026-03-16T12:09:59.201Z",
+    "holdings": [
+      {
+        "id": "8853452f-eb99-43ad-85fe-589645aca41b",
+        "accountId": "5ed1b9d9-3add-41d5-b1f8-afeb9a5ec83f",
+        "pairSymbol": "BTCUSDT",
+        "amount": "0.0058",
+        "avgBuyPrice": "73599.06",
+        "createdAt": "2026-03-16T11:57:49.555Z",
+        "updatedAt": "2026-03-16T12:09:59.202Z"
+      }
+    ],
+    "trades": [
+      {
+        "id": "0eb40f8e-bd45-4480-926e-32aa12392729",
+        "accountId": "5ed1b9d9-3add-41d5-b1f8-afeb9a5ec83f",
+        "pairSymbol": "BTCUSDT",
+        "side": "buy",
+        "quantity": "0.1358",
+        "price": "73593.3",
+        "totalValue": "9993.970140000001",
+        "feeValue": "0",
+        "executedAt": "2026-03-16T11:57:49.559Z"
+      },
+      {
+        "id": "0a82feb1-893b-4dc2-ba51-1e4d48b24a43",
+        "accountId": "5ed1b9d9-3add-41d5-b1f8-afeb9a5ec83f",
+        "pairSymbol": "BTCUSDT",
+        "side": "sell",
+        "quantity": "0.13",
+        "price": "73649.50999999999",
+        "totalValue": "9574.436299999999",
+        "feeValue": "0",
+        "executedAt": "2026-03-16T12:06:08.303Z"
+      },
+      {
+        "id": "32c5b189-a29a-4381-849d-def73473b774",
+        "accountId": "5ed1b9d9-3add-41d5-b1f8-afeb9a5ec83f",
+        "pairSymbol": "BTCUSDT",
+        "side": "buy",
+        "quantity": "0.00008",
+        "price": "73599.06",
+        "totalValue": "5.8879248",
+        "feeValue": "0",
+        "executedAt": "2026-03-16T12:09:54.000Z"
+      },
+      {
+        "id": "a24ed2f3-b1aa-4e4d-9d02-8ed93bd3c204",
+        "accountId": "5ed1b9d9-3add-41d5-b1f8-afeb9a5ec83f",
+        "pairSymbol": "BTCUSDT",
+        "side": "sell",
+        "quantity": "0.00008",
+        "price": "73596.81",
+        "totalValue": "5.8877448",
+        "feeValue": "0",
+        "executedAt": "2026-03-16T12:09:59.203Z"
+      }
+    ]
+  }
+}
